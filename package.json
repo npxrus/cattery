@@ -1,0 +1,25 @@
+{
+  "name": "cattery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "source": "src/index.pug",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npxrus/cattery.git"
+  },
+  "author": "Evgeniy Mironov (@npxrus)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/npxrus/cattery/issues"
+  },
+  "homepage": "https://github.com/npxrus/cattery#readme",
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  }
+}
